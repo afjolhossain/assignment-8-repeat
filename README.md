@@ -1,10 +1,8 @@
-# project-name :
-
-male's shoes
+# male's shoes
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live link [Create React App](https://melodic-starlight-45d6f2.netlify.app).
 
 ## Available Scripts
 
