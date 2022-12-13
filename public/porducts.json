@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Chuck Taylor",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 290,
+    "image": " https://i.ibb.co/PDLMZ3k/shoes-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Golf shoes",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 690,
+    "image": "https://i.ibb.co/Mg0xy5Y/shoes-3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hiking boots",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 790,
+    "image": "https://i.ibb.co/NnVptGt/shoes-11.jpg"
+  },
+  {
+    "id": 4,
+    "name": "High-tops",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 490,
+    "image": "https://i.ibb.co/brx5fM0/shoes-8.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Running shoes",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 390,
+    "image": "https://i.ibb.co/KFXT7fj/shoes-4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Climbing shoes",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 599,
+    "image": "https://i.ibb.co/NSy1CtN/shoes-9.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Basketball shoes",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 1090,
+    "image": "https://i.ibb.co/BwWg4k7/shoes-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Old skool",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 999,
+    "image": "https://i.ibb.co/djQzGwz/shoes-5.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Soccer shoes",
+    "discription": "Shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
+    "price": 790,
+    "image": "https://i.ibb.co/Y25GcbM/shoes-6.jpg"
+  }
+]
